@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="left_tab_width">90px</dimen>
+    <dimen name="bottom_tab_height">125px</dimen>
+</resources>
